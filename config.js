@@ -1,5 +1,5 @@
 const CONFIG = {
-  systemStatus: "ACTIVE - FLOOD RESPONSE MODE",
+  systemStatus: "ACTIVE - POWER OUTAGE MODE",
   version: "1.0.0"
 };
 
